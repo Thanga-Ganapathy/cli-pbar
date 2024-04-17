@@ -1,6 +1,6 @@
 {
-  "name": "cli-g",
-  "version": "1.0.0",
+  "name": "cli-pbar",
+  "version": "2.0.0",
   "description": "The npm POC pkg for testing npm's search score.",
   "main": "index.js",
   "type": "module",
@@ -15,7 +15,10 @@
     "cli",
     "terminal",
     "console",
-    "command-line"
+    "command-line",
+    "progress",
+    "bar",
+    "progressbar"
   ],
   "author": "Thanga Ganapathy",
   "license": "MIT",
@@ -25,6 +28,6 @@
   "homepage": "https://open-tech-foundation.pages.dev/",
   "publishConfig": {
     "access": "public",
-    "provenance": true
+    "provenance": false
   }
 }
