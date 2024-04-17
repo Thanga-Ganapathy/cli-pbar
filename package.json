@@ -1,5 +1,5 @@
 {
-  "name": "cli-poc",
+  "name": "cli-g",
   "version": "1.0.0",
   "description": "The npm POC pkg for testing npm's search score.",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Thanga-Ganapathy/cli-poc.git"
+    "url": "git+https://github.com/Thanga-Ganapathy/cli-g.git"
   },
   "keywords": [
     "cli",
@@ -20,7 +20,7 @@
   "author": "Thanga Ganapathy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Thanga-Ganapathy/cli-poc/issues"
+    "url": "https://github.com/Thanga-Ganapathy/cli-g/issues"
   },
   "homepage": "https://open-tech-foundation.pages.dev/",
   "publishConfig": {
