@@ -1,0 +1,30 @@
+{
+  "name": "cli-poc",
+  "version": "1.0.0",
+  "description": "The npm POC pkg for testing npm's search score.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thanga-Ganapathy/cli-poc.git"
+  },
+  "keywords": [
+    "cli",
+    "terminal",
+    "console",
+    "command-line"
+  ],
+  "author": "Thanga Ganapathy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thanga-Ganapathy/cli-poc/issues"
+  },
+  "homepage": "https://open-tech-foundation.pages.dev/",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  }
+}
