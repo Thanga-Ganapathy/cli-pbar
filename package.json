@@ -1,6 +1,6 @@
 {
   "name": "cli-pbar",
-  "version": "5.0.0",
+  "version": "6.0.0",
   "description": "The Customizable CLI Progress Bars.",
   "main": "index.js",
   "type": "module",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Thanga-Ganapathy/cli-g.git"
+    "url": "git+https://github.com/Thanga-Ganapathy/cli-pbar.git"
   },
   "keywords": [
     "cli",
@@ -23,7 +23,7 @@
   "author": "Thanga Ganapathy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Thanga-Ganapathy/cli-g/issues"
+    "url": "https://github.com/Thanga-Ganapathy/cli-pbar/issues"
   },
   "homepage": "https://open-tech-foundation.pages.dev/",
   "publishConfig": {
