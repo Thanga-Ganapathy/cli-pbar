@@ -1,7 +1,7 @@
 {
   "name": "cli-pbar",
-  "version": "3.0.0",
-  "description": "The npm POC pkg for testing npm's search score.",
+  "version": "5.0.0",
+  "description": "The Customizable CLI Progress Bars.",
   "main": "index.js",
   "type": "module",
   "scripts": {
